@@ -1,0 +1,45 @@
+.flexBoxQuestions {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+    width: 60%;
+    flex-wrap: wrap;
+
+}
+
+.flexBoxQuestion {
+    display: flex;
+    flex-direction: column;
+    background-color: #1769aa;
+    color: #fff;
+    margin-top: 10%;
+    width: 60%;
+    margin-left: 20%;
+    flex-wrap: wrap;
+}
+
+.flexelemQuestion {
+    margin: 10px 10px 10px 10px;
+}
+
+form {
+    justify-self: flex-end;
+    justify-content: flex-end;
+    text-align: right;
+}
+
+
+.action {
+    background-color: #ffffff !important;
+}
+
+.actionIcon {
+    background-color: #ffffff !important;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.flexBox>Question {
+    margin: 10px 10px 10px 10px;
+}

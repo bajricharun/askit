@@ -1,0 +1,8 @@
+.addNewForm {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    position: fixed;
+    top: 20%;
+    right: 10%;
+}

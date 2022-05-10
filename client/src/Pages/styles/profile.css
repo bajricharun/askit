@@ -1,0 +1,30 @@
+.flexBox {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    width: 20%;
+    justify-content: center;
+    justify-items: center;
+}
+
+.flexelem {
+    text-align: center;
+}
+
+.flexBoxPwd {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    right: 10%;
+    top: 30%;
+}
+
+.formData {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+}
